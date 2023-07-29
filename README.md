@@ -1,9 +1,11 @@
 - ♡ Hey-o! I’m @l1yah ૮(˶ᵔ ᵕ ᵔ˶)ა
-- ♡ Interested in software development, database design & management, and video games!
-- ♡ Currently a junior at UCF & employee at IT@UCF
-- ♡ Currently learning SQL and C++, and buffing my Python, C and Java skills.
-- ♡ How to reach me: liyahshoenfelt@knights.ucf.edu
-- ♡ LinkedIn: www.linkedin.com/in/oliviashoenfelt
+- ♡ Interested in software development, cloud architecture, database design & management... and video games!
+- ♡ Currently a senior at UCF & employee at IT@UCF
+- ♡ Currently learning how to use Git (lol) and buffing my Python, MySQL, C and Java skills.
+- ♡ Current Cloud Support Engineer Intern @ Amazon Web Services
+- ♡ How to reach me:
+    - ♡ Email: liyahshoenfelt@gmail.com
+    - ♡ LinkedIn: www.linkedin.com/in/oliviashoenfelt
 
 <!---
 l1yah/l1yah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
